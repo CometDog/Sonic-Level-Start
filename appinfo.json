@@ -7,7 +7,28 @@
     "longName": "Sonic Level Start",
     "projectType": "native",
     "resources": {
-        "media": []
+        "media": [
+            {
+                "file": "images/SonicRed.png",
+                "name": "SONIC",
+                "type": "png"
+            },
+            {
+                "file": "fonts/Gaslight-Regular.ttf",
+                "name": "GASLIGHT_30",
+                "type": "font"
+            },
+            {
+                "file": "fonts/Gaslight-Regular.ttf",
+                "name": "GASLIGHT_40",
+                "type": "font"
+            },
+            {
+                "file": "fonts/VIPNAGOR.ttf",
+                "name": "VIPNAGOR_12",
+                "type": "font"
+            }
+        ]
     },
     "sdkVersion": "3",
     "shortName": "Sonic Start",
