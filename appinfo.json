@@ -1,0 +1,22 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "James Downs",
+    "longName": "Sonic Level Start",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "Sonic Start",
+    "targetPlatforms": [
+        "basalt"
+    ],
+    "uuid": "34d06315-5106-472e-ae9c-edc96072bbbe",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
